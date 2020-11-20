@@ -35,3 +35,5 @@ function sort(array) {
   return unshuffled;
 }
 
+//init
+setOptions(false);
