@@ -72,6 +72,11 @@
   .rand-btn {
     font-size: 3rem;
   }
+
+  .select-button {
+    font-size: .5rem;
+    padding: 10px;
+  }
 }
 
 
